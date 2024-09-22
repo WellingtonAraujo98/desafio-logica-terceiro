@@ -1,0 +1,14 @@
+C:\Users\welli\OneDrive\Área de Trabalho\estudos\bootcampC#_formacaoNet\desafioLogica\bin\Debug\net8.0\desafioLogica.exe
+C:\Users\welli\OneDrive\Área de Trabalho\estudos\bootcampC#_formacaoNet\desafioLogica\bin\Debug\net8.0\desafioLogica.deps.json
+C:\Users\welli\OneDrive\Área de Trabalho\estudos\bootcampC#_formacaoNet\desafioLogica\bin\Debug\net8.0\desafioLogica.runtimeconfig.json
+C:\Users\welli\OneDrive\Área de Trabalho\estudos\bootcampC#_formacaoNet\desafioLogica\bin\Debug\net8.0\desafioLogica.dll
+C:\Users\welli\OneDrive\Área de Trabalho\estudos\bootcampC#_formacaoNet\desafioLogica\bin\Debug\net8.0\desafioLogica.pdb
+C:\Users\welli\OneDrive\Área de Trabalho\estudos\bootcampC#_formacaoNet\desafioLogica\obj\Debug\net8.0\desafioLogica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\welli\OneDrive\Área de Trabalho\estudos\bootcampC#_formacaoNet\desafioLogica\obj\Debug\net8.0\desafioLogica.AssemblyInfoInputs.cache
+C:\Users\welli\OneDrive\Área de Trabalho\estudos\bootcampC#_formacaoNet\desafioLogica\obj\Debug\net8.0\desafioLogica.AssemblyInfo.cs
+C:\Users\welli\OneDrive\Área de Trabalho\estudos\bootcampC#_formacaoNet\desafioLogica\obj\Debug\net8.0\desafioLogica.csproj.CoreCompileInputs.cache
+C:\Users\welli\OneDrive\Área de Trabalho\estudos\bootcampC#_formacaoNet\desafioLogica\obj\Debug\net8.0\desafioLogica.dll
+C:\Users\welli\OneDrive\Área de Trabalho\estudos\bootcampC#_formacaoNet\desafioLogica\obj\Debug\net8.0\refint\desafioLogica.dll
+C:\Users\welli\OneDrive\Área de Trabalho\estudos\bootcampC#_formacaoNet\desafioLogica\obj\Debug\net8.0\desafioLogica.pdb
+C:\Users\welli\OneDrive\Área de Trabalho\estudos\bootcampC#_formacaoNet\desafioLogica\obj\Debug\net8.0\desafioLogica.genruntimeconfig.cache
+C:\Users\welli\OneDrive\Área de Trabalho\estudos\bootcampC#_formacaoNet\desafioLogica\obj\Debug\net8.0\ref\desafioLogica.dll
